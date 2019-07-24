@@ -1,0 +1,7 @@
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe.config
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.exe
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\bin\Debug\FactoryDemo.pdb
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csprojAssemblyReference.cache
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.csproj.CoreCompileInputs.cache
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.exe
+D:\Users\jbawang\source\repos\FactoryDemo\FactoryDemo\obj\Debug\FactoryDemo.pdb
